@@ -1,6 +1,6 @@
 # ⚽ Manchester United 2024/25 Performance Analysis
 
-This project analyzes Manchester United’s 2024/25 season using match and player data scraped from FBref. It highlights key performance metrics, visual trends, and tactical insights using Python and Excel.
+This project analyzes Manchester United’s 2024/25 season using match and player data scraped from FBref. It highlights key performance metrics, visual trends, and tactical insights using Python and Excel. View dashboard here:![Dashboard Image](ManchesterUnitedDashboard.png)
 
 ---
 
